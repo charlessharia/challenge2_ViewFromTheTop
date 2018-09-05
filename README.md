@@ -146,7 +146,14 @@ You can use the following resources to to get acquainted with some feature selec
   - Successive interviews for projects MAY be run to satisfy participating african.ai partners
 
 
+My comments
 
+
+I used random forest because it is fast and has high accuracy.
+ 
+I tried other models like SVC but to prevent overfitting i chose random forest. 
+ 
+Due to the small size of training data neural networks were not apropriate. 
 
 
 
